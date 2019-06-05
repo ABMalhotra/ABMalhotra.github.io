@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+title: Abhinav Malhotra
+description: Abhinav Malhotra is a Graduate Student in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
