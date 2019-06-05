@@ -22,4 +22,4 @@ Georgia Institute of Technology, <br/>
 Atlanta, GA 30332
 
 ---
-<sup> The source for this website is [on github](https://github.com/ABMalhotra/ABMalhotra.github.io), free to use with attribution under a [CC BY](https://creativecommons.org/licenses/by/3.0/) license. This website is based on [Karl Broman's](https://github.com/kbroman) open source [sample site](https://github.com/kbroman/simple_site). Thanks to him for providing a wonderful resource. </sup>
+<sup> The source for this website is [on github](https://github.com/ABMalhotra/Website_CC-BY), free to use with attribution under a [CC BY](https://creativecommons.org/licenses/by/3.0/) license. This website is based on [Karl Broman's](https://github.com/kbroman) open source [sample site](https://github.com/kbroman/simple_site). Thanks to him for providing a wonderful resource. </sup>
