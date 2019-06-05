@@ -5,7 +5,7 @@ title: About
 description: About page for Abhinav Malhotra
 ---
 <div style="display: flex; justify-content: center;">
-<img src="assets/images/AM.jpg" width="225" />
+<img src="assets/images/AM.jpg" width="225" height="90" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@ My PhD research is focused on thermal energy transport from the nano to macro-sc
 
 311 Ferst Dr. NW, <br/>
 Georgia Institute of Technology, <br/>
-Atlanta, GA 30318
+Atlanta, GA 30332
 
 ---
 <sup> The source for this website is [on github](https://github.com/ABMalhotra/ABMalhotra.github.io), free to use with attribution under a [CC BY](https://creativecommons.org/licenses/by/3.0/) license. This website is based on [Karl Broman's](https://github.com/kbroman) open source [sample site](https://github.com/kbroman/simple_site). Thanks to him for providing a wonderful resource. </sup>
