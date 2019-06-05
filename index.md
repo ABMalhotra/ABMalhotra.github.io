@@ -4,69 +4,22 @@ title: About
 <!-- tagline: hello -->
 description: About page for Abhinav Malhotra
 ---
+<div style="display: flex; justify-content: center;">
+<img src="assets/images/AM.jpg" width="225" />
+</div>
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+<br/>
+I am a PhD candidate in chemical engineering at [Georgia Institute of Technology](http://www.chbe.gatech.edu). My research interests lie in leveraging transport phenomenon to advance the understanding of energy science to enable new technologies. 
 
-For me, the painful aspects of making a website are
-
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
-
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
-
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
-
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
-
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+My PhD research is focused on thermal energy transport from the nano to macro-scale. At the small length scales of nanostructures, heat flow is influenced by phenomena absent at the macro-scale. As a consequence, heat conduction at the nanoscale is no longer described by classical Fourier's theory. In my research, I use statistical transport theory to predict the flow of heat. Such heat-flux engineering is central to improving the efficiencies of [thermoelectric technologies](https://www.nature.com/subjects/thermoelectrics) for waste-heat recovery, [optoelectronic devices](https://en.wikipedia.org/wiki/Optoelectronics) (such as solar cells, lasers and photo-detectors) and industrial [chemical engineering equipment](https://www.aiche.org/rapid/projects/list) (heat exchangers and chemical reactors).
 
 ---
+### <a name="contact"></a>Contact
+[Email](mailto:abhinav.m@aol.com)
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+311 Ferst Dr. NW, <br/>
+Georgia Institute of Technology, <br/>
+Atlanta, GA 30318
 
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+---
+<sup> The source for this website is [on github](https://github.com/ABMalhotra/ABMalhotra.github.io), free to use with attribution under a [CC BY](https://creativecommons.org/licenses/by/3.0/) license. This website is based on [Karl Broman's](https://github.com/kbroman) open source [sample site](https://github.com/kbroman/simple_site). Thanks to him for providing a wonderful resource. </sup>
