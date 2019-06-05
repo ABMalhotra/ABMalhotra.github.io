@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: 
 <!-- tagline: hello -->
 description: About page for Abhinav Malhotra
 ---
 <div style="display: flex; justify-content: center;">
-<img src="assets/images/AM.jpg" width="225" height="90" />
+<img src="assets/images/AM.jpg" />
 </div>
 
 <br/>
