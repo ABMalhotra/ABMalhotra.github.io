@@ -27,7 +27,7 @@ description: Abhinav Malhotra's publications
 [![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
 [![R/qtl](icons16/R-icon.png)](http://www.rqtl.org) -->
 
-### <a name="articles"></a>Research Articles
+## <a name="articles"></a>Research Articles
 (Total first author articles = 8, metrics at [Google
 Scholar](https://scholar.google.com/citations?user=CUv1-V0AAAAJ&hl=en){:target="_blank"})
 
@@ -82,7 +82,10 @@ by *Gliomastix indicus* MTCC 3869.
 ](https://doi.org/10.1016/j.jece.2013.07.027){:target="_blank"}(2013).
 {: reversed="reversed"}
 
-### <a name="thesis"></a>Dissertations
+
+<br/>
+
+## <a name="thesis"></a>Dissertations
 * __PhD__: Under Progress
 * __Masters__: Oxidative Reforming of Methane: Thermodynamic and Modeling Study [(2547KB)](/assets/files/AM_masters_thesis.pdf){:target="_blank"}
 <!-- **Broman KW** (1997) Identifying quantitative trait loci in

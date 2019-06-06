@@ -15,22 +15,21 @@ My PhD research is focused on thermal energy transport from the nano to macro-sc
 
 ---
 ### <a name="contact"></a>Contact
+<a href="https://twitter.com/dracodormien" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" target="_blank">Twitter</a>
+<br/>
+<a class="github-button" href="https://github.com/ABMalhotra" data-size="medium" aria-label="Follow @ABMalhotra on GitHub">Github</a>
+ 	
 <script type="text/javascript">
 <!--
 h='&#x61;&#x6f;&#x6c;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#x61;&#x62;&#x68;&#x69;&#x6e;&#x61;&#x76;&#46;&#x6d;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
 // -->
 </script><noscript>abhinav dot m at aol dot com</noscript>
-
 311 Ferst Dr. NW, <br/>
 Georgia Institute of Technology, <br/>
 Atlanta, GA 30332
 
 <br/>
-<a href="https://twitter.com/dracodormien" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" target="_blank">Twitter</a>
-<br/>
-<a class="github-button" href="https://github.com/ABMalhotra" data-size="medium" aria-label="Follow @ABMalhotra on GitHub">Github</a> 	
-
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
