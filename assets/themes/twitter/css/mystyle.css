@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:bold);
+h1{
+ font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+ font-size: 25px;
+ line-height: 21px;
+}
+h2{
+ font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+ font-size: 18px;
+ line-height: 18px;
+}
+h3{
+ font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ line-height: 16px;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+p {
+ font-family: 'Vollkorn', Georgia, Times, serif;
+ font-size: 14px;
+ line-height: 18px;
+}
+
+body {
+ font-family: 'Vollkorn', Georgia, Times, serif;
+ font-size: 16px;
+ font-color: blue;
+ line-height: 20px;
+}

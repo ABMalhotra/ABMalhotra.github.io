@@ -9,6 +9,16 @@
 .navbar .nav {
   float: right; }
 
+/* My changes start here */
+
+/* set hover and focus to lightblue */
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  background-color: silver;
+}
+
+/* My changes end here */
+
 /* posts index */
 .post > h3.title {
   position: relative;
