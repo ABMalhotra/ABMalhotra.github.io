@@ -89,8 +89,3 @@ by *Gliomastix indicus* MTCC 3869.
 
 * _PhD_: Under Progress
 * _Masters_: Oxidative Reforming of Methane: Thermodynamic and Modeling Study [(2547KB)](/assets/files/AM_masters_thesis.pdf){:target="_blank"}
-<!-- **Broman KW** (1997) Identifying quantitative trait loci in
-experimental crosses.  PhD dissertation, Department of Statistics,
-University of California, Berkeley
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf (653k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf) -->
