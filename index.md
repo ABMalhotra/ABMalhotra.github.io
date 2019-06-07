@@ -15,7 +15,7 @@ My PhD research is focused on thermal energy transport from the nano to macro-sc
 
 ---
 ### <a name="contact"></a>Contact
-<a href="https://twitter.com/dracodormien" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" target="_blank">Twitter</a>
+<a href="https://twitter.com/dracodormien" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" target="_blank"><img src='/assets/icons/twitter.png' alt="Twitter" style="border:0;"></a>
 <br/>
 <a class="github-button" href="https://github.com/ABMalhotra" data-size="medium" aria-label="Follow @ABMalhotra on GitHub">Github</a>
  	
