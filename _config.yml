@@ -92,6 +92,12 @@ JB :
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
+
+  # Settings for ads helper
+  ads :
+    provider : "google"
+
+
   sharing :
     provider : false
 

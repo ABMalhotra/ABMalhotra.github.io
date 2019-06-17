@@ -1,0 +1,14 @@
+{% if site.safe and site.JB.ads.provider and page.JB.ads != false %}
+
+{% case site.JB.ads.provider %}
+{% when "google" %}
+  {% include JB/ads-providers/google %}
+{% when "getclicky" %}
+  {% include JB/ads-providers/getclicky %}
+{% when "mixpanel" %}
+  {% include JB/ads-providers/mixpanel %}
+{% when "custom" %}
+  {% include custom/ads %}
+{% endcase %}
+
+{% endif %}
