@@ -77,7 +77,7 @@ by *Gliomastix indicus* MTCC 3869, *Journal of Environmental Chemical Engineerin
 <br/>
 ## <a name="sciencewriting"></a>Communicating Science
 
-* *Entering the Matrix: ELI5 Introduction to Eigenvalues and Eigenvectors*, (June 2019) [medium.com,](https://medium.com/@abhinavmalhotra/entering-the-matrix-eli5-introduction-to-eigenvalues-and-eigenvecotrs-376bb6704412){:target="_blank"}
+* *Entering the Matrix: ELI5 Introduction to Eigenvalues and Eigenvectors*, medium.com, (June 2019). [Read here](https://medium.com/@abhinavmalhotra/entering-the-matrix-eli5-introduction-to-eigenvalues-and-eigenvecotrs-376bb6704412){:target="_blank"}
 
 <br/>
 ## <a name="thesis"></a>Dissertations
