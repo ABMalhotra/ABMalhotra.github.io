@@ -9,12 +9,14 @@ h2{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
  font-size: 19px;
  line-height: 18px;
- color:#2A3132;
+ color:#68829E;
 }
 h3{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
  font-size: 18px;
  line-height: 16px;
+ color:#68829E;
+
 }
 
 @import url(http://fonts.googleapis.com/css?family=Vollkorn);
@@ -48,8 +50,8 @@ body {
 
 /* set navbar link colors, increase size slightly, with slight left shift with padding*/
 .nav a{
-    color: #68829E !important;
-    font-size: 1.15em !important; 
+    color: #375E97 !important;
+    font-size: 1.18em !important; 
 }
 .nav li{
     padding-right:4px;

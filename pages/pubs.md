@@ -12,7 +12,7 @@ description: Abhinav Malhotra's publications
             <!-- <li><a href="#editorials">editorials</a></li> -->
             <!-- <li><a href="#letters">letters</a></li> -->
             <!-- <li><a href="#chapters">chapters</a></li> -->
-            <!-- <li><a href="#techreports">tech reports</a></li> -->
+            <li><a href="#sciencewriting">communicating science</a></li>
             <li><a href="#thesis">dissertations</a></li>
         </ul>
     </div>
@@ -75,7 +75,11 @@ by *Gliomastix indicus* MTCC 3869, *Journal of Environmental Chemical Engineerin
 
 
 <br/>
+## <a name="sciencewriting"></a>Communicating Science
 
+* *Entering the Matrix: ELI5 Introduction to Eigenvalues and Eigenvectors*, Medium.com, (June 2019) [Link](https://medium.com/@abhinavmalhotra/entering-the-matrix-eli5-introduction-to-eigenvalues-and-eigenvecotrs-376bb6704412){:target="_blank"}
+
+<br/>
 ## <a name="thesis"></a>Dissertations
 
 * _PhD_: Under Progress
