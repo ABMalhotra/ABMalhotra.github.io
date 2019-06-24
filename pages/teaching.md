@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-description: Karl Broman's teaching
+description: Abhinav Malhotra's teaching
 ---
 
 <div class="navbar">
