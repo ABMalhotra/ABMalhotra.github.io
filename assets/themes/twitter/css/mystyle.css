@@ -1,13 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:bold);
 h1{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
- font-size: 26px;
+ font-size: 29px;
  line-height: 22px;
+
 }
 h2{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
- font-size: 19px;
- line-height: 19px;
+ font-size: 17px;
+ line-height: 18px;
+ color:#2A3132;
 }
 h3{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
@@ -20,10 +22,47 @@ p {
  font-family: 'Vollkorn', Georgia, Times, serif;
  font-size: 14px;
  line-height: 18px;
+ color:#21263D;
 }
 
 body {
  font-family: 'Vollkorn', Georgia, Times, serif;
  font-size: 14px;
  line-height: 18px;
+ color:#21263D;
+}
+
+/* set navbar "Abhinav Malhotra" (i.e. brand) properties*/
+.navbar .brand {
+    font-size: 24px;
+    color: #375E97;
+}
+
+/*.navbar .brand, .navbar .nav > li > a {
+    color: #D64848;
+}
+.navbar .brand, .navbar .nav > li > a:hover {
+    color: #F56E6E;
+}*/
+
+
+/* set navbar link colors, increase size slightly, with slight left shift with padding*/
+.nav a{
+    color: #68829E !important;
+    font-size: 1.15em !important; 
+}
+.nav li{
+    padding-right:4px;
+   }
+
+
+/* set hover and focus to lightgray */
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  background-color: lightgray;
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  background-color: lightgray;
 }
