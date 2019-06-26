@@ -40,6 +40,16 @@ body {
     color: #375E97;
 }
 
+/* set the navbar properties red */
+.navbar-inner {
+  /*background-color: red;*/
+  /* remove the gradient */
+  /*background-image: none;*/
+  /* set font color to white */
+  /*color: white;*/
+  border:none;
+}  
+
 /*.navbar .brand, .navbar .nav > li > a {
     color: #D64848;
 }
