@@ -31,7 +31,7 @@ description: Abhinav Malhotra's publications
 (Total first author articles = 8, metrics at [Google
 Scholar](https://scholar.google.com/citations?user=CUv1-V0AAAAJ&hl=en){:target="_blank"})
 
-11. **Malhotra, A.**, and Maldovan, M.; Phononic Pathways towards Rational Design of Nanowire Heat Conduction, *Nanotechnology*, In Press, (2019). [[Online]](https://iopscience.iop.org/article/10.1088/1361-6528/ab261d){:target="_blank"}  
+11. **Malhotra, A.**, and Maldovan, M.; Phononic Pathways towards Rational Design of Nanowire Heat Conduction, *Nanotechnology*, 30, 372002, (2019). [[Online]](https://iopscience.iop.org/article/10.1088/1361-6528/ab261d){:target="_blank"}  
 
 10. Kothari, K., **Malhotra, A.**, and Maldovan, M.; Cross-Plane
 Heat Conduction in III-V Semiconductor Superlattices, *Journal of
