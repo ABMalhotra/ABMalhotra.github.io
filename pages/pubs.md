@@ -82,5 +82,5 @@ by *Gliomastix indicus* MTCC 3869, *Journal of Environmental Chemical Engineerin
 <br/>
 ## <a name="thesis"></a>Dissertations
 
-* _PhD_: Under Progress
-* _Masters_: Oxidative Reforming of Methane: Thermodynamic and Modeling Study [[2547KB]](/assets/files/AM_masters_thesis.pdf){:target="_blank"}
+* _PhD_: Exploring Thermal Transport in Semiconductor Nanostructures [[10.3MB]](/assets/files/AM_phd_thesis.pdf){:target="_blank"}
+* _Masters_: Oxidative Reforming of Methane: Thermodynamic and Modeling Study [[2.5MB]](/assets/files/AM_masters_thesis.pdf){:target="_blank"}
