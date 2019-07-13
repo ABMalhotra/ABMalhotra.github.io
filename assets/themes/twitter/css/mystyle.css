@@ -1,42 +1,42 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:bold);
 h1{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
- font-size: 29px;
+ font-size: 23px;
  line-height: 22px;
 
 }
 h2{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
- font-size: 19px;
+ font-size: 17px;
  line-height: 18px;
  color:#68829E;
 }
 h3{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
- font-size: 18px;
+ font-size: 15px;
  line-height: 16px;
  color:#68829E;
 
 }
 
-@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+@import url(http://fonts.googleapis.com/css?family=Avenir);
 p {
- font-family: 'Vollkorn', Georgia, Times, serif;
+ font-family: 'Avenir', Georgia, Times, sans-serif;
  font-size: 14px;
- line-height: 18px;
+ line-height: 20px;
  color:#21263D;
 }
 
 body {
- font-family: 'Vollkorn', Georgia, Times, serif;
+ font-family: 'Avenir', Georgia, Times, sans-serif;
  font-size: 14px;
- line-height: 18px;
+ line-height: 20px;
  color:#21263D;
 }
 
 /* set navbar "Abhinav Malhotra" (i.e. brand) properties*/
 .navbar .brand {
-    font-size: 24px;
+    font-size: 20px;
     color: #375E97;
 }
 
