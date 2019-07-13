@@ -12,12 +12,12 @@ description: About page for Abhinav Malhotra
 
 <p> <img style="padding: 0 15px; float: left;" src="assets/images/AM2.jpg" /></p> 
 
-I am a PhD candidate in chemical engineering at [Georgia Institute of Technology](https://www.chbe.gatech.edu){:target="_blank"}. My research interests lie in leveraging transport phenomenon to advance the understanding of energy science to enable new technologies. My PhD research was focused on thermal energy transport from the nano to macro-scale.
+I am a PhD in chemical engineering from [Georgia Institute of Technology](https://www.chbe.gatech.edu){:target="_blank"}. My research interests lie in leveraging transport phenomenon to advance the understanding of energy science to enable new technologies. 
 {: style="text-align: justify;"}
 
 <br/><br/><br/>
 
- At the small length scales of nanostructures, heat flow is influenced by phenomena absent at the macro-scale. As a consequence, heat conduction at the nanoscale is no longer described by classical Fourier's theory. In my research, I use statistical transport theory to predict the flow of heat. Such heat-flux engineering is central to improving the efficiencies of [thermoelectric technologies](https://www.nature.com/subjects/thermoelectrics){:target="_blank"} for waste-heat recovery, [optoelectronic devices](https://en.wikipedia.org/wiki/Optoelectronics){:target="_blank"} (such as solar cells, lasers and photo-detectors) and industrial [chemical engineering equipment](https://www.aiche.org/rapid/projects/list){:target="_blank"} (heat exchangers and chemical reactors).
+My PhD research was focused on thermal energy transport from the nano to macro-scale. At the small length scales of nanostructures, heat flow is influenced by phenomena absent at the macro-scale. As a consequence, heat conduction at the nanoscale is no longer described by classical Fourier's theory. In my research, I use statistical transport theory to predict the flow of heat. Such heat-flux engineering is central to improving the efficiencies of [thermoelectric technologies](https://www.nature.com/subjects/thermoelectrics){:target="_blank"} for waste-heat recovery, [optoelectronic devices](https://en.wikipedia.org/wiki/Optoelectronics){:target="_blank"} (such as solar cells, lasers and photo-detectors) and industrial [chemical engineering equipment](https://www.aiche.org/rapid/projects/list){:target="_blank"} (heat exchangers and chemical reactors).
 {: style="text-align: justify;"}
 
 ---
