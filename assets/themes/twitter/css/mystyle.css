@@ -1,9 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu);
 @import url(http://fonts.googleapis.com/css?family=Avenir);
-/*Increase spacing at end of list item*/
-li > ul {
-  padding-bottom: 0.5em;
-}
 
 h1{
  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
@@ -53,12 +49,10 @@ body {
   /*background-image: none;*/
   /* set font color to white */
   /*color: white;*/
-width: 100%;
 background-color: rgba(6,47,79,0.4);
-top: 0;
-left: 0;
-z-index: 2;
-border: 1.5px solid #C0B283;
+/*top: 0;
+left: 0;*/
+/*border: 1.5px solid #C0B283;*/
 }  
 
 /*.navbar .brand, .navbar .nav > li > a {
@@ -75,7 +69,7 @@ border: 1.5px solid #C0B283;
     font-size: 1.18em !important; 
 }
 .nav li{
-    padding-right:4px;
+    padding-right:2px;
    }
 
 
