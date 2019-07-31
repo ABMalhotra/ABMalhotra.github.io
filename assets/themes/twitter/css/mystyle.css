@@ -53,7 +53,12 @@ body {
   /*background-image: none;*/
   /* set font color to white */
   /*color: white;*/
-  border:none;
+width: 100%;
+background-color: rgba(6,47,79,0.4);
+top: 0;
+left: 0;
+z-index: 2;
+border: 1.5px solid #C0B283;
 }  
 
 /*.navbar .brand, .navbar .nav > li > a {
@@ -84,3 +89,4 @@ body {
 .navbar .nav > li > a:hover {
   background-color: lightgray;
 }
+
