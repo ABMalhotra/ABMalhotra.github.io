@@ -19,8 +19,8 @@ Atlanta, GA 30332
 
 <br/>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script> -->
 
 
 <!--  -->
