@@ -1,0 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+@import url(http://fonts.googleapis.com/css?family=Avenir);
+
+h1{
+ font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+ font-size: 23px;
+ line-height: 22px;
+
+}
+h2{
+ font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 18px;
+ color:#68829E;
+}
+h3{
+ font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+ font-size: 15px;
+ line-height: 16px;
+ color:#68829E;
+
+}
+
+
+p {
+ font-family: 'Avenir', Georgia, Times, sans-serif;
+ font-size: 14px;
+ line-height: 20px;
+ color:#21263D;
+}
+
+body {
+ font-family: 'Avenir', Georgia, Times, sans-serif;
+ font-size: 14px;
+ line-height: 20px;
+ color:#21263D;
+}
+
+/* set navbar "Abhinav Malhotra" (i.e. brand) properties*/
+.navbar .brand {
+    font-size: 20px;
+    color: #375E97;
+}
+
+/* set the navbar properties red */
+.navbar-inner {
+  /*background-color: red;*/
+  /* remove the gradient */
+  /*background-image: none;*/
+  /* set font color to white */
+  /*color: white;*/
+background-color: rgba(6,47,79,0.4);
+/*top: 0;
+left: 0;*/
+/*border: 1.5px solid #C0B283;*/
+}  
+
+/*.navbar .brand, .navbar .nav > li > a {
+    color: #D64848;
+}
+.navbar .brand, .navbar .nav > li > a:hover {
+    color: #F56E6E;
+}*/
+
+
+/* set navbar link colors, increase size slightly, with slight left shift with padding*/
+.nav a{
+    color: #375E97 !important;
+    font-size: 1.18em !important; 
+}
+.nav li{
+    padding-right:2px;
+   }
+
+
+/* set hover and focus to lightgray */
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  background-color: lightgray;
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  background-color: lightgray;
+}
+
