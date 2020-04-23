@@ -23,14 +23,16 @@ h='&#x61;&#x62;&#x68;&#x69;&#x6e;&#x61;&#x76;&#x6d;&#46;&#x63;&#x6f;&#x6d;';a='&
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
 // -->
 </script>
-<a href="https://twitter.com/dracodormien" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" target="_blank"><img src='/assets/icons/twitter.png' alt="Follow" style="border:8;"></a>
+
+
+<!-- <a href="https://twitter.com/dracodormien" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" target="_blank"><img src='/assets/icons/twitter.png' alt="Follow" style="border:8;"></a>
 <br/>
 <a class="github-button" href="https://github.com/ABMalhotra" data-size="medium" aria-label="Follow @ABMalhotra on GitHub">Github</a>
 
 <br/>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
+ -->
 <!--  -->
 ### <a name="updates"></a>Updates
 <!-- *Sept 3, 2019:* First day of post-doc at [Dion Vlachos'](https://dion.che.udel.edu) Research Group at University of Delaware. -->

@@ -13,14 +13,14 @@ h='&#x61;&#x62;&#x68;&#x69;&#x6e;&#x61;&#x76;&#x6d;&#46;&#x63;&#x6f;&#x6d;';a='&
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
 // -->
 </script>
-311 Ferst Dr. NW, <br/>
+<!-- 311 Ferst Dr. NW, <br/>
 Georgia Institute of Technology, <br/>
-Atlanta, GA 30332
+Atlanta, GA 30332 -->
 
 <br/>
 
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script async defer src="https://buttons.github.io/buttons.js"></script> -->
+ --><!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
 <!--  -->
