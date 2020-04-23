@@ -35,7 +35,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
  -->
 <!--  -->
 ### <a name="updates"></a>Updates
-<!-- *Sept 3, 2019:* First day of post-doc at [Dion Vlachos'](https://dion.che.udel.edu) Research Group at University of Delaware. -->
+
+*Sept 3, 2019:* First day of post-doc at [Dion Vlachos'](https://dion.che.udel.edu) Research Group at University of Delaware.
 
 *July 8, 2019:* I successfully defended my PhD thesis in chemical engineering at [Georgia Institute of Technology](https://www.chbe.gatech.edu){:target="_blank"}. 
 
