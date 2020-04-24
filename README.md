@@ -1,1 +1,1 @@
-[Personal Website](www.ABMalhotra.github.io)
+[Personal Website](https://ABMalhotra.github.io)
