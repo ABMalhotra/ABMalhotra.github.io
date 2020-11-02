@@ -1,0 +1,28 @@
+I"ˆ<h1 class="content-listing-header sans">Articles</h1>
+<ul class="content-listing ">
+          
+        <li class="listing">
+          <hr class="slender" />
+          <a href="/articles/20/IPL"><h3 class="contrast">Understanding Indian Premier League with Data Science</h3></a>
+          <br /><span class="smaller">February 23, 2020</span>  <br />
+          <div><p><span class="newthought">Quantifying success, efficiency and performance in the richest league of cricket</span></p>
+
+<p>Indian Premier League, or IPL, is a cricket league that began in 2008. In more than a decade it has transformed the landscape of cricket not only in India but across the world. This transformation has been achieved by immense amount of money that has been pumped into cricket especially by IPL teams during player auctions.</p>
+
+</div> 
+        </li>
+          
+        <li class="listing">
+          <hr class="slender" />
+          <a href="/articles/19/eignevectors"><h3 class="contrast">Entering the Matrix: ELI5 Introduction to Eigenvalues and Eigenvectors</h3></a>
+          <br /><span class="smaller">June 10, 2019</span>  <br />
+          <div><p><span class="newthought">I am trying to free your mind, Neo. But I can only show you the door.</span></p>
+
+<p>This post is motivated by my effort to explain matrices and their special properties without having to resort to typical mathematical language.
+Matrices are a strange beast, look mathematical devoid of all physical intuition, and yet are so powerful that they underlie foundational mathematics, statistics and even quantum mechanics. Lets bring some intuition to their working.</p>
+
+</div> 
+        </li>
+    
+  </ul>
+:ET
