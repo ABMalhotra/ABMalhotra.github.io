@@ -25,7 +25,7 @@ transfer:
   settings: -av
   source: _site/
   destination:
-google_analytics-id: UA-131196323-1
+googleanalytics-id: UA-131196323-1
 # plugins:
 #   - jekyll-analytics
 # jekyll_analytics:
