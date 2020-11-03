@@ -7,6 +7,7 @@ description: Post-doctoral researcher at University of Delaware
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+google_analytics: UA-131196323-1
 permalink: /articles/:short_year/:title
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
@@ -24,4 +25,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: 
+  destination:
