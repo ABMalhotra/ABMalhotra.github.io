@@ -1,3 +1,4 @@
 mathjax: true
 lato_font_load: true
 analytics_mine: true
+stat_counter: false

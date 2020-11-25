@@ -22,8 +22,13 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <!-- Load up analytics script if needed ... specify in /_data/options.yml file-->
+  <!-- Load up google analytics script if needed ... specify in /_data/options.yml file-->
   {% if site.data.options.analytics_mine %}
   {% include analytics_mine.html %}
+  {% endif %}
+
+  <!-- Load up stat counter script if needed ... specify in /_data/options.yml file-->
+  {% if site.data.options.stat_counter %}
+  {% include stat_counter.html %}
   {% endif %}
 </head>
