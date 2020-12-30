@@ -3,11 +3,11 @@
   <channel>
     <title>Abhinav Malhotra</title>
     <description>Post-doctoral researcher at University of Delaware</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Dec 2020 08:47:53 -0500</pubDate>
-    <lastBuildDate>Fri, 18 Dec 2020 08:47:53 -0500</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Dec 2020 16:20:50 -0500</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2020 16:20:50 -0500</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Understanding Indian Premier League with Data Science</title>
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Sun, 23 Feb 2020 04:06:04 -0500</pubDate>
-        <link>http://localhost:4000/articles/20/IPL</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/20/IPL</guid>
+        <link>/articles/20/IPL</link>
+        <guid isPermaLink="true">/articles/20/IPL</guid>
         
         
         <category>jekyll</category>
@@ -59,8 +59,8 @@ In a true scientific manner, Wincerind decides to test the effect of the compass
 &lt;p&gt;&lt;a href=&quot;https://medium.com/x8-the-ai-community/entering-the-matrix-eli5-introduction-to-eigenvalues-and-eigenvecotrs-376bb6704412&quot;&gt;Read the full article here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 05:06:04 -0400</pubDate>
-        <link>http://localhost:4000/articles/19/eignevectors</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/19/eignevectors</guid>
+        <link>/articles/19/eignevectors</link>
+        <guid isPermaLink="true">/articles/19/eignevectors</guid>
         
         
         <category>jekyll</category>
